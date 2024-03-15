@@ -7,6 +7,6 @@ const LoginPage = () => {
             <FormLogin></FormLogin>
         
         </AuthLayout>
-    )
-}
+    );
+};
 export default LoginPage;
